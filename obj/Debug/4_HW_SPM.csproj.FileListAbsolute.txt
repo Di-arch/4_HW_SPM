@@ -1,0 +1,7 @@
+C:\Users\dyend\source\repos\4_HW_SPM\4_HW_SPM\bin\Debug\4_HW_SPM.exe.config
+C:\Users\dyend\source\repos\4_HW_SPM\4_HW_SPM\bin\Debug\4_HW_SPM.exe
+C:\Users\dyend\source\repos\4_HW_SPM\4_HW_SPM\bin\Debug\4_HW_SPM.pdb
+C:\Users\dyend\source\repos\4_HW_SPM\4_HW_SPM\obj\Debug\4_HW_SPM.csprojAssemblyReference.cache
+C:\Users\dyend\source\repos\4_HW_SPM\4_HW_SPM\obj\Debug\4_HW_SPM.csproj.CoreCompileInputs.cache
+C:\Users\dyend\source\repos\4_HW_SPM\4_HW_SPM\obj\Debug\4_HW_SPM.exe
+C:\Users\dyend\source\repos\4_HW_SPM\4_HW_SPM\obj\Debug\4_HW_SPM.pdb
